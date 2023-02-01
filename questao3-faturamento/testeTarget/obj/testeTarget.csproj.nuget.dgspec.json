@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhuliani\\Desktop\\C#\\testeTarget\\testeTarget\\testeTarget.csproj": {}
+    "C:\\Users\\Jhuliani\\Desktop\\testes-target\\questao3-faturamento\\testeTarget\\testeTarget.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhuliani\\Desktop\\C#\\testeTarget\\testeTarget\\testeTarget.csproj": {
+    "C:\\Users\\Jhuliani\\Desktop\\testes-target\\questao3-faturamento\\testeTarget\\testeTarget.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhuliani\\Desktop\\C#\\testeTarget\\testeTarget\\testeTarget.csproj",
+        "projectUniqueName": "C:\\Users\\Jhuliani\\Desktop\\testes-target\\questao3-faturamento\\testeTarget\\testeTarget.csproj",
         "projectName": "testeTarget",
-        "projectPath": "C:\\Users\\Jhuliani\\Desktop\\C#\\testeTarget\\testeTarget\\testeTarget.csproj",
+        "projectPath": "C:\\Users\\Jhuliani\\Desktop\\testes-target\\questao3-faturamento\\testeTarget\\testeTarget.csproj",
         "packagesPath": "C:\\Users\\Jhuliani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhuliani\\Desktop\\C#\\testeTarget\\testeTarget\\obj\\",
+        "outputPath": "C:\\Users\\Jhuliani\\Desktop\\testes-target\\questao3-faturamento\\testeTarget\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhuliani\\AppData\\Roaming\\NuGet\\NuGet.Config",
