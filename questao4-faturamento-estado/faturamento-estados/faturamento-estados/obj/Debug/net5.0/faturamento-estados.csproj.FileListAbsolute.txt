@@ -1,0 +1,16 @@
+C:\Users\Jhuliani\Desktop\testes-target\questao5-faturamento-estado\faturamento-estados\faturamento-estados\bin\Debug\net5.0\faturamento-estados.exe
+C:\Users\Jhuliani\Desktop\testes-target\questao5-faturamento-estado\faturamento-estados\faturamento-estados\bin\Debug\net5.0\faturamento-estados.deps.json
+C:\Users\Jhuliani\Desktop\testes-target\questao5-faturamento-estado\faturamento-estados\faturamento-estados\bin\Debug\net5.0\faturamento-estados.runtimeconfig.json
+C:\Users\Jhuliani\Desktop\testes-target\questao5-faturamento-estado\faturamento-estados\faturamento-estados\bin\Debug\net5.0\faturamento-estados.runtimeconfig.dev.json
+C:\Users\Jhuliani\Desktop\testes-target\questao5-faturamento-estado\faturamento-estados\faturamento-estados\bin\Debug\net5.0\faturamento-estados.dll
+C:\Users\Jhuliani\Desktop\testes-target\questao5-faturamento-estado\faturamento-estados\faturamento-estados\bin\Debug\net5.0\faturamento-estados.pdb
+C:\Users\Jhuliani\Desktop\testes-target\questao5-faturamento-estado\faturamento-estados\faturamento-estados\obj\Debug\net5.0\faturamento-estados.csproj.AssemblyReference.cache
+C:\Users\Jhuliani\Desktop\testes-target\questao5-faturamento-estado\faturamento-estados\faturamento-estados\obj\Debug\net5.0\faturamento-estados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhuliani\Desktop\testes-target\questao5-faturamento-estado\faturamento-estados\faturamento-estados\obj\Debug\net5.0\faturamento-estados.AssemblyInfoInputs.cache
+C:\Users\Jhuliani\Desktop\testes-target\questao5-faturamento-estado\faturamento-estados\faturamento-estados\obj\Debug\net5.0\faturamento-estados.AssemblyInfo.cs
+C:\Users\Jhuliani\Desktop\testes-target\questao5-faturamento-estado\faturamento-estados\faturamento-estados\obj\Debug\net5.0\faturamento-estados.csproj.CoreCompileInputs.cache
+C:\Users\Jhuliani\Desktop\testes-target\questao5-faturamento-estado\faturamento-estados\faturamento-estados\obj\Debug\net5.0\faturamento-estados.dll
+C:\Users\Jhuliani\Desktop\testes-target\questao5-faturamento-estado\faturamento-estados\faturamento-estados\obj\Debug\net5.0\refint\faturamento-estados.dll
+C:\Users\Jhuliani\Desktop\testes-target\questao5-faturamento-estado\faturamento-estados\faturamento-estados\obj\Debug\net5.0\faturamento-estados.pdb
+C:\Users\Jhuliani\Desktop\testes-target\questao5-faturamento-estado\faturamento-estados\faturamento-estados\obj\Debug\net5.0\faturamento-estados.genruntimeconfig.cache
+C:\Users\Jhuliani\Desktop\testes-target\questao5-faturamento-estado\faturamento-estados\faturamento-estados\obj\Debug\net5.0\ref\faturamento-estados.dll

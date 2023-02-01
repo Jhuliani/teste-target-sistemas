@@ -1,0 +1,16 @@
+C:\Users\Jhuliani\Desktop\testes-target\questao2-fibonacci\questao2-fibonacci\bin\Debug\net5.0\questao2-fibonacci.exe
+C:\Users\Jhuliani\Desktop\testes-target\questao2-fibonacci\questao2-fibonacci\bin\Debug\net5.0\questao2-fibonacci.deps.json
+C:\Users\Jhuliani\Desktop\testes-target\questao2-fibonacci\questao2-fibonacci\bin\Debug\net5.0\questao2-fibonacci.runtimeconfig.json
+C:\Users\Jhuliani\Desktop\testes-target\questao2-fibonacci\questao2-fibonacci\bin\Debug\net5.0\questao2-fibonacci.runtimeconfig.dev.json
+C:\Users\Jhuliani\Desktop\testes-target\questao2-fibonacci\questao2-fibonacci\bin\Debug\net5.0\questao2-fibonacci.dll
+C:\Users\Jhuliani\Desktop\testes-target\questao2-fibonacci\questao2-fibonacci\bin\Debug\net5.0\questao2-fibonacci.pdb
+C:\Users\Jhuliani\Desktop\testes-target\questao2-fibonacci\questao2-fibonacci\obj\Debug\net5.0\questao2-fibonacci.csproj.AssemblyReference.cache
+C:\Users\Jhuliani\Desktop\testes-target\questao2-fibonacci\questao2-fibonacci\obj\Debug\net5.0\questao2-fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhuliani\Desktop\testes-target\questao2-fibonacci\questao2-fibonacci\obj\Debug\net5.0\questao2-fibonacci.AssemblyInfoInputs.cache
+C:\Users\Jhuliani\Desktop\testes-target\questao2-fibonacci\questao2-fibonacci\obj\Debug\net5.0\questao2-fibonacci.AssemblyInfo.cs
+C:\Users\Jhuliani\Desktop\testes-target\questao2-fibonacci\questao2-fibonacci\obj\Debug\net5.0\questao2-fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Jhuliani\Desktop\testes-target\questao2-fibonacci\questao2-fibonacci\obj\Debug\net5.0\questao2-fibonacci.dll
+C:\Users\Jhuliani\Desktop\testes-target\questao2-fibonacci\questao2-fibonacci\obj\Debug\net5.0\refint\questao2-fibonacci.dll
+C:\Users\Jhuliani\Desktop\testes-target\questao2-fibonacci\questao2-fibonacci\obj\Debug\net5.0\questao2-fibonacci.pdb
+C:\Users\Jhuliani\Desktop\testes-target\questao2-fibonacci\questao2-fibonacci\obj\Debug\net5.0\questao2-fibonacci.genruntimeconfig.cache
+C:\Users\Jhuliani\Desktop\testes-target\questao2-fibonacci\questao2-fibonacci\obj\Debug\net5.0\ref\questao2-fibonacci.dll

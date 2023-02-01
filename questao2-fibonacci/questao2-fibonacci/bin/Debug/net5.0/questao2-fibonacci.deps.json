@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "questao2-fibonacci/1.0.0": {
+        "runtime": {
+          "questao2-fibonacci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "questao2-fibonacci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
